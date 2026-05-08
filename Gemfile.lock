@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/EFForg/congress_forms.git
-  revision: 149037265ae757bcebd7cc832db2c70ee4926526
+  revision: 05fefa34a0ff3b9cd136d90cc7bfe92662ecec22
   branch: master
   specs:
     congress_forms (0.1.18.pre.rc1)
